@@ -2,7 +2,7 @@
 
 https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition
 
-This was my first submission to a Kaggle competition on April 24th 2017, based on Lesson #1 of "Deep Learning for Coders".
+This was my first submission to a Kaggle competition on April 24th 2017, based on Lesson #1 of "Practical Deep Learning for Coders" (Jeremy Howard & Rachel Thomas, 2016).
 
 I obtained the public score of Log Loss: 0.10599 (rank #490)
 
